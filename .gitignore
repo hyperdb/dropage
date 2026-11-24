@@ -1,0 +1,9 @@
+#
+# ------------------------------
+.vscode/*
+.jj/*
+.htaccess
+
+
+samples/*
+REQUEST.md

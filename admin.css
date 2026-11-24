@@ -1,0 +1,15 @@
+#dropage-zone {
+    display: grid;
+    gap: 12px;
+    justify-items: center;
+    padding: 28px 16px;
+    border: 2px dashed #646970;
+    background: #fff;
+    text-align: center;
+}
+
+#dropage-zone.is-dragging,
+#dropage-zone:focus-within {
+    border-color: #2271b1;
+    background: #f0f6fc;
+}
